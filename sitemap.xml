@@ -2,454 +2,790 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://tamil.perpetual.fyi/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/contact/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/tags/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%B0-%E0%AE%87%E0%AE%B1%E0%AE%A4-%E0%AE%B5%E0%AE%9F%E0%AE%AE%E0%AE%B1-%E0%AE%A4%E0%AE%9F-%E0%AE%AA%E0%AE%A4%E0%AE%A9%E0%AE%95%E0%AE%B4%E0%AE%AE-%E0%AE%95%E0%AE%A3%E0%AE%9F-%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%86%E0%AE%B3%E0%AE%95%E0%AE%95-%E0%AE%86%E0%AE%9A-%E0%AE%95%E0%AE%9F%E0%AE%9F%E0%AE%AF-%E0%AE%AA%E0%AE%A3%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%87%E0%AE%B0%E0%AE%B5-%E0%AE%87%E0%AE%B0%E0%AE%A3%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%B3-%E0%AE%AA%E0%AE%A3%E0%AE%9F%E0%AE%95%E0%AE%A9%E0%AE%B2%E0%AE%B0%E0%AE%A8%E0%AE%A4-%E0%AE%B5%E0%AE%A8%E0%AE%A4%E0%AE%B0-%E0%AE%9A%E0%AE%B2%E0%AE%B1%E0%AE%B0-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0-%E0%AE%9A%E0%AE%B5-%E0%AE%AE%E0%AE%9A%E0%AE%AF%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AE-%E0%AE%A8%E0%AE%95%E0%AE%9A%E0%AE%9A%E0%AE%B5/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%AF%E0%AE%B2-%E0%AE%B5%E0%AE%A8%E0%AE%A4-%E0%AE%AA%E0%AE%A9%E0%AE%AA-atm-%E0%AE%B2-%E0%AE%AA%E0%AE%A3%E0%AE%AE-%E0%AE%87%E0%AE%B2%E0%AE%B2-%E0%AE%8E%E0%AE%A9%E0%AE%B1-%E0%AE%AA%E0%AE%AF%E0%AE%A3-%E0%AE%AE%E0%AE%95%E0%AE%B5%E0%AE%B0%E0%AE%95%E0%AE%B3-%E0%AE%AA%E0%AE%9E%E0%AE%9A%E0%AE%AF%E0%AE%A4%E0%AE%A4-%E0%AE%93%E0%AE%9F%E0%AE%9F%E0%AE%B2%E0%AE%95%E0%AE%95-%E0%AE%B5%E0%AE%A8%E0%AE%A4-%E0%AE%AA%E0%AE%B0%E0%AE%AA%E0%AE%B0%E0%AE%AA%E0%AE%AA%E0%AE%A9-%E0%AE%A8%E0%AE%9F%E0%AE%95%E0%AE%B3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%B0%E0%AE%9A%E0%AE%AA%E0%AE%B7%E0%AE%A9%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%87%E0%AE%A9%E0%AE%9A%E0%AE%A9-%E0%AE%9A%E0%AE%AE%E0%AE%AA%E0%AE%B5%E0%AE%AE-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%95%E0%AE%B3%E0%AE%AE-%E0%AE%B5%E0%AE%B2%E0%AE%A4%E0%AE%A4%E0%AE%B3-%E0%AE%B5%E0%AE%B5%E0%AE%B0%E0%AE%99%E0%AE%95%E0%AE%B3%E0%AE%AE-%E0%AE%95%E0%AE%A3%E0%AE%A4-%E0%AE%9A%E0%AE%AA-%E0%AE%AA%E0%AE%9F-%E0%AE%95%E0%AE%A4%E0%AE%AF%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%9A%E0%AE%AE%E0%AE%A9%E0%AE%AF-%E0%AE%9A%E0%AE%B2%E0%AE%AF%E0%AE%B2-%E0%AE%9A%E0%AE%B1%E0%AE%9A%E0%AE%B1%E0%AE%AA%E0%AE%AA%E0%AE%A9-%E0%AE%B0%E0%AE%9F-%E0%AE%B0%E0%AE%A9%E0%AE%A9%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%93%E0%AE%B0-%E0%AE%9A%E0%AE%B1%E0%AE%AF-but-%E0%AE%B8%E0%AE%AA%E0%AE%9A-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%B2/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%9A%E0%AE%AF%E0%AE%AF%E0%AE%AE-%E0%AE%A4%E0%AE%B4%E0%AE%B2%E0%AE%95%E0%AE%95-%E0%AE%95%E0%AE%AF%E0%AE%B4%E0%AE%A4%E0%AE%A4-%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%A9-%E0%AE%85%E0%AE%A4%E0%AE%9F-%E0%AE%B5%E0%AE%B3%E0%AE%B5%E0%AE%95%E0%AE%B3-%E0%AE%8E%E0%AE%A9%E0%AE%A9%E0%AE%B5%E0%AE%95%E0%AE%AE--%E0%AE%92%E0%AE%B0-%E0%AE%95%E0%AE%A3%E0%AE%9F%E0%AE%95%E0%AE%9F%E0%AE%B0%E0%AE%A9-%E0%AE%A4%E0%AE%A8%E0%AE%A4%E0%AE%B0%E0%AE%AE%E0%AE%A9-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%B4%E0%AE%9A%E0%AE%9A-%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%B1%E0%AE%A4-%E0%AE%B5%E0%AE%A3%E0%AE%AE%E0%AE%A9-%E0%AE%B5%E0%AE%9A%E0%AE%A9%E0%AE%AF%E0%AE%9F-%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%A3%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AE%E0%AE%B2%E0%AE%B3%E0%AE%B0-%E0%AE%87%E0%AE%B2%E0%AE%B2%E0%AE%A4-%E0%AE%B5%E0%AE%B0%E0%AE%AE---%E0%AE%93%E0%AE%B0-%E0%AE%93%E0%AE%9F%E0%AE%9F%E0%AE%B2%E0%AE%A9-%E0%AE%95%E0%AE%B2-%E0%AE%89%E0%AE%A3%E0%AE%B5-%E0%AE%95%E0%AE%B2%E0%AE%9F%E0%AE%9F/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AE%E0%AE%A9%E0%AE%A9%E0%AE%A3-%E0%AE%AE%E0%AE%9A%E0%AE%AF%E0%AE%A9-%E0%AE%AA%E0%AE%A9%E0%AE%A9%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%A4%E0%AE%B0%E0%AE%95%E0%AE%B3--%E0%AE%89%E0%AE%AA%E0%AE%9A%E0%AE%B0%E0%AE%AA%E0%AE%AA-%E0%AE%8E%E0%AE%B2%E0%AE%B2%E0%AE%95%E0%AE%B3-%E0%AE%AE%E0%AE%B0%E0%AE%AF%E0%AE%A4-%E0%AE%AE%E0%AE%A9%E0%AE%A4%E0%AE%A8%E0%AE%AF%E0%AE%AE%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9%E0%AE%A9%E0%AE%9F-%E0%AE%AA%E0%AE%A9-%E0%AE%AE%E0%AE%B1%E0%AE%A8%E0%AE%A4-%E0%AE%AA%E0%AE%A9%E0%AE%A4--%E0%AE%92%E0%AE%B0-%E0%AE%85%E0%AE%B2%E0%AE%B5%E0%AE%B2%E0%AE%95%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%9A%E0%AE%B1%E0%AE%AF-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%9A%E0%AE%A9%E0%AE%A9%E0%AE%A4-%E0%AE%95%E0%AE%9F%E0%AE%9F%E0%AE%A9-%E0%AE%AA%E0%AE%B8-%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%B5%E0%AE%A4%E0%AE%95%E0%AE%95-%E0%AE%9A%E0%AE%B0%E0%AE%B5%E0%AE%B0-%E0%AE%92%E0%AE%A4%E0%AE%A4%E0%AE%B4%E0%AE%AA%E0%AE%AA--%E0%AE%B0%E0%AE%9F%E0%AE%9F%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%B5%E0%AE%9F%E0%AE%A4%E0%AE%A4-%E0%AE%A4%E0%AE%AE%E0%AE%B4-%E0%AE%B5%E0%AE%B2%E0%AE%95%E0%AE%B3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%B0%E0%AE%9F%E0%AE%9F%E0%AE%AF%E0%AE%B2-%E0%AE%95%E0%AE%9F%E0%AE%95%E0%AE%B3%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%9A%E0%AE%A9%E0%AE%A9%E0%AE%9A-%E0%AE%9A%E0%AE%B5%E0%AE%B0%E0%AE%B8%E0%AE%AF%E0%AE%99%E0%AE%95%E0%AE%B3--%E0%AE%89%E0%AE%99%E0%AE%95%E0%AE%B3-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%B3-%E0%AE%8E%E0%AE%A9%E0%AE%A9/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9%E0%AE%A4-%E0%AE%AA%E0%AE%A9-%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%A9%E0%AE%A4-%E0%AE%AF%E0%AE%B0--%E0%AE%92%E0%AE%B0-%E0%AE%85%E0%AE%B2%E0%AE%B5%E0%AE%B2%E0%AE%95-%E0%AE%AA%E0%AE%9E%E0%AE%9A%E0%AE%AF%E0%AE%A4%E0%AE%A4-%E0%AE%AE%E0%AE%B1%E0%AE%B1%E0%AE%AE-%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%9A%E0%AE%99%E0%AE%95%E0%AE%B0-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%B2/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9-%E0%AE%9A%E0%AE%95-kevinina---%E0%AE%92%E0%AE%B0-%E0%AE%9F-%E0%AE%B7%E0%AE%B0%E0%AE%9F-%E0%AE%87%E0%AE%B0%E0%AE%A3%E0%AE%9F-%E0%AE%AE%E0%AE%A8%E0%AE%B2%E0%AE%99%E0%AE%95%E0%AE%B3-%E0%AE%AE%E0%AE%A9%E0%AE%B1-%E0%AE%95%E0%AE%B4%E0%AE%AA%E0%AE%AA%E0%AE%99%E0%AE%95%E0%AE%B3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%A8%E0%AE%A3%E0%AE%AA%E0%AE%A9%E0%AE%95%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%AF-%E0%AE%9A%E0%AE%A9%E0%AE%A9%E0%AE%A9-%E0%AE%AA%E0%AE%95-%E0%AE%AE-%E0%AE%AA%E0%AE%B5-%E0%AE%9F%E0%AE%9F%E0%AE%9F%E0%AE%B5-%E0%AE%9A%E0%AE%AF%E0%AE%A4%E0%AE%95%E0%AE%A3%E0%AE%9F%E0%AE%B3--%E0%AE%92%E0%AE%B0-%E0%AE%95%E0%AE%B1%E0%AE%AE%E0%AE%AA-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%95%E0%AE%B5%E0%AE%A9-%E0%AE%AE%E0%AE%B1%E0%AE%B1%E0%AE%AE-%E0%AE%85%E0%AE%B5%E0%AE%B0%E0%AE%A4-%E0%AE%85%E0%AE%B1%E0%AE%B5%E0%AE%9A%E0%AE%B0-%E0%AE%9A%E0%AE%B2%E0%AE%AF%E0%AE%B0-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE-rv-stop-%E0%AE%8E%E0%AE%A9%E0%AE%B1%E0%AE%B2-%E0%AE%87%E0%AE%B2%E0%AE%B5%E0%AE%9A-%E0%AE%B5%E0%AE%9F/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%A4%E0%AE%A3%E0%AE%A3%E0%AE%B0%E0%AE%B2-%E0%AE%B5%E0%AE%95%E0%AE%AE-%E0%AE%AA%E0%AE%B8%E0%AE%95%E0%AE%9F--%E0%AE%93%E0%AE%9F%E0%AE%9F%E0%AE%B2%E0%AE%A9-%E0%AE%93%E0%AE%B5%E0%AE%A9-%E0%AE%95%E0%AE%B4%E0%AE%AA%E0%AE%AA%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%9A%E0%AE%95%E0%AE%95%E0%AE%AF-%E0%AE%B5%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%A9%E0%AE%B0/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%9A%E0%AE%AE%E0%AE%AE-%E0%AE%B6%E0%AE%AE%E0%AE%95%E0%AE%95%E0%AE%99-%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%AA%E0%AE%A4%E0%AE%AE-%E0%AE%B8%E0%AE%AA%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%87%E0%AE%B2%E0%AE%B5%E0%AE%9A%E0%AE%AE-%E0%AE%95%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AE-%E0%AE%A9/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%9A%E0%AE%95%E0%AE%95%E0%AE%A9-%E0%AE%B5%E0%AE%99%E0%AE%95-%E0%AE%B5%E0%AE%B0%E0%AE%9A%E0%AE%AF%E0%AE%B2-%E0%AE%9A%E0%AE%B4%E0%AE%9A%E0%AE%9A--%E0%AE%8E%E0%AE%99%E0%AE%95-%E0%AE%AA%E0%AE%95%E0%AE%95%E0%AE%9F-%E0%AE%A8%E0%AE%B1%E0%AE%AF%E0%AE%A4-%E0%AE%8E%E0%AE%A9%E0%AE%B1%E0%AE%B2-%E0%AE%A8%E0%AE%AE%E0%AE%AE-%E0%AE%A4%E0%AE%AE%E0%AE%B4%E0%AE%A9%E0%AE%A9-%E0%AE%AA%E0%AE%A4%E0%AE%B2/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9-%E0%AE%B5%E0%AE%B0%E0%AE%99%E0%AE%95%E0%AE%B2-%E0%AE%95%E0%AE%A3%E0%AE%B5%E0%AE%B0%E0%AE%A9-%E0%AE%9F%E0%AE%A3%E0%AE%9F%E0%AE%B0-%E0%AE%95%E0%AE%A3%E0%AE%95%E0%AE%95-%E0%AE%AE%E0%AE%B1%E0%AE%B1%E0%AE%AF-%E0%AE%85%E0%AE%A4%E0%AE%B0%E0%AE%9F--%E0%AE%87%E0%AE%B0%E0%AE%A3%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AE-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AE%E0%AE%A3%E0%AE%9F%E0%AE%AF%E0%AE%95-%E0%AE%95%E0%AE%B3%E0%AE%B0-%E0%AE%B5%E0%AE%95%E0%AE%95%E0%AE%AE-%E0%AE%AE%E0%AE%B2%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%85%E0%AE%B1%E0%AE%B5%E0%AE%B0-%E0%AE%AA%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%AF-%E0%AE%AE%E0%AE%B2%E0%AE%B3%E0%AE%B0%E0%AE%9F%E0%AE%AE-%E0%AE%AA%E0%AE%9A%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9-%E0%AE%AA%E0%AE%95-%E0%AE%AE-%E0%AE%A4%E0%AE%B4%E0%AE%95%E0%AE%95-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AE%A4-%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%AA%E0%AE%B4--%E0%AE%B5%E0%AE%B2-%E0%AE%87%E0%AE%9F%E0%AE%A4%E0%AE%A4-%E0%AE%95%E0%AE%AE%E0%AE%9F-%E0%AE%95%E0%AE%A4%E0%AE%95%E0%AE%B3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AE%E0%AE%A9%E0%AE%AA%E0%AE%A3%E0%AE%AF%E0%AE%B2-%E0%AE%AA%E0%AE%A4%E0%AE%AE%E0%AE%95%E0%AE%AE--%E0%AE%95%E0%AE%9A%E0%AE%A9-%E0%AE%B5%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%B3%E0%AE%AF%E0%AE%A9-%E0%AE%95%E0%AE%AA-%E0%AE%85%E0%AE%B4%E0%AE%AA%E0%AE%AA-%E0%AE%87%E0%AE%A4-%E0%AE%A4%E0%AE%AE%E0%AE%B4%E0%AE%AA-%E0%AE%AA%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%9F%E0%AE%9A-%E0%AE%85%E0%AE%B2%E0%AE%B2/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%85%E0%AE%B2%E0%AE%B5%E0%AE%B2%E0%AE%95%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%95%E0%AE%9E%E0%AE%9A%E0%AE%AE-%E0%AE%9A%E0%AE%B0%E0%AE%99%E0%AE%95%E0%AE%8E%E0%AE%A9%E0%AE%A9%E0%AE%AE%E0%AE%AE-%E0%AE%87%E0%AE%A4-%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%95-%E0%AE%8A%E0%AE%B4%E0%AE%AF%E0%AE%B0-%E0%AE%9A%E0%AE%95/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AE%E0%AE%A9%E0%AE%B1%E0%AE%AE-%E0%AE%A4%E0%AE%B0%E0%AE%AA%E0%AE%AA-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AA%E0%AE%A4%E0%AE%B5-%E0%AE%9A%E0%AE%B0%E0%AE%AA%E0%AE%AA-%E0%AE%9A%E0%AE%99%E0%AE%95%E0%AE%A4-%E0%AE%B7%E0%AE%AE%E0%AE%95%E0%AE%99%E0%AE%95%E0%AE%AE%E0%AE%AF%E0%AE%A9-%E0%AE%9A%E0%AE%95-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AE%E0%AE%A4%E0%AE%AA%E0%AE%A9%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%A4%E0%AE%B3%E0%AE%B3%E0%AE%AE-%E0%AE%B5%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%A9%E0%AE%B0%E0%AE%95%E0%AE%B3-%E0%AE%95%E0%AE%A3%E0%AE%9F%E0%AE%B2-%E0%AE%9A%E0%AE%AF%E0%AE%B5%E0%AE%A4%E0%AE%B2-%E0%AE%B5%E0%AE%B0%E0%AE%AE-%E0%AE%9A%E0%AE%95%E0%AE%AE--%E0%AE%92%E0%AE%B0-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AA%E0%AE%A3%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%92%E0%AE%B0-%E0%AE%87%E0%AE%B0%E0%AE%B5%E0%AE%B2-pms-%E0%AE%9A%E0%AE%B8%E0%AE%9F%E0%AE%AE-%E0%AE%AA%E0%AE%B4%E0%AE%A4%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%AA%E0%AE%B4%E0%AE%AF-%E0%AE%95%E0%AE%B2-%E0%AE%95%E0%AE%95%E0%AE%A4%E0%AE%AE-%E0%AE%AA%E0%AE%A9%E0%AE%B5%E0%AE%9F%E0%AE%A9-%E0%AE%93%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%93%E0%AE%9F%E0%AE%9F%E0%AE%AF-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%8F%E0%AE%B4-%E0%AE%AA%E0%AE%9A-%E0%AE%95%E0%AE%B1%E0%AE%A8%E0%AE%A4%E0%AE%A4%E0%AE%B1%E0%AE%95%E0%AE%95-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%92%E0%AE%B0-%E0%AE%85%E0%AE%9A%E0%AE%A4%E0%AE%A4%E0%AE%B2%E0%AE%A9-%E0%AE%95%E0%AE%9E%E0%AE%9A%E0%AE%AE-%E0%AE%95%E0%AE%AA%E0%AE%AE-%E0%AE%95%E0%AE%9E%E0%AE%9A%E0%AE%AE-%E0%AE%95%E0%AE%AE%E0%AE%9F-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AE%E0%AE%A4%E0%AE%B2%E0%AE%B3-%E0%AE%9A%E0%AE%A9%E0%AE%A9%E0%AE%B0-%E0%AE%9A%E0%AE%9F%E0%AE%9F%E0%AE%AA%E0%AE%AA%E0%AE%9F-%E0%AE%89%E0%AE%9F-%E0%AE%85%E0%AE%A3%E0%AE%AF%E0%AE%A3%E0%AE%AE--%E0%AE%85%E0%AE%B2%E0%AE%B5%E0%AE%B2%E0%AE%95%E0%AE%AE-90%E0%AE%95%E0%AE%B3%E0%AE%A9-%E0%AE%A8%E0%AE%B4%E0%AE%B2%E0%AE%B2/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%92%E0%AE%B0-%E0%AE%B5%E0%AE%A4-%E0%AE%92%E0%AE%B0-%E0%AE%A8%E0%AE%95%E0%AE%9A%E0%AE%9A%E0%AE%B5--%E0%AE%9A%E0%AE%9F%E0%AE%9F-%E0%AE%AA%E0%AE%A4%E0%AE%A4%E0%AE%95%E0%AE%A4%E0%AE%A4%E0%AE%95%E0%AE%95-%E0%AE%85%E0%AE%9F%E0%AE%AE-%E0%AE%86%E0%AE%A9-%E0%AE%87%E0%AE%B3%E0%AE%9E%E0%AE%B0%E0%AE%95%E0%AE%B3%E0%AE%A9-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%9A%E0%AE%AE%E0%AE%B3%E0%AE%B3-%E0%AE%AA%E0%AE%9F%E0%AE%9F%E0%AE%AF%E0%AE%AE-%E0%AE%AA%E0%AE%B8%E0%AE%95%E0%AE%9F-%E0%AE%AA%E0%AE%9A%E0%AE%AE%E0%AE%AE-%E0%AE%AA%E0%AE%9F%E0%AE%9F%E0%AE%A3-%E0%AE%AA%E0%AE%9A%E0%AE%99%E0%AE%95%E0%AE%AE--%E0%AE%92%E0%AE%B0-%E0%AE%B5%E0%AE%B3%E0%AE%AF%E0%AE%B2-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%95%E0%AE%B4%E0%AE%A4%E0%AE%A4-%E0%AE%A4%E0%AE%9F%E0%AE%AE-%E0%AE%AE%E0%AE%9F-%E0%AE%B5%E0%AE%A3%E0%AE%9F%E0%AE%AE--%E0%AE%B5%E0%AE%B2%E0%AE%95%E0%AE%95%E0%AE%B0%E0%AE%B0%E0%AE%95%E0%AE%B3%E0%AE%A9-%E0%AE%B5%E0%AE%95-%E0%AE%95%E0%AE%B2%E0%AE%9F%E0%AE%9F/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%85%E0%AE%AE%E0%AE%AE-%E0%AE%9A%E0%AE%B0%E0%AE%9A%E0%AE%9A-%E0%AE%A4%E0%AE%A9-%E0%AE%85%E0%AE%B4%E0%AE%95-%E0%AE%87%E0%AE%B0%E0%AE%95%E0%AE%95%E0%AE%AE--%E0%AE%93%E0%AE%B0-%E0%AE%AE%E0%AE%A9%E0%AE%AA%E0%AE%B2%E0%AE%95-%E0%AE%8A%E0%AE%B4%E0%AE%AF%E0%AE%B0%E0%AE%A9-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9%E0%AE%95%E0%AE%95-%E0%AE%87%E0%AE%A8%E0%AE%A4-%E0%AE%B5%E0%AE%9A%E0%AE%AF%E0%AE%B2-%E0%AE%AE%E0%AE%95%E0%AE%B5%E0%AE%AE-%E0%AE%AA%E0%AE%9A%E0%AE%AE-%E0%AE%87%E0%AE%B0%E0%AE%95%E0%AE%95--%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%9C%E0%AE%AE%E0%AE%AE%E0%AE%B2-%E0%AE%9A%E0%AE%B1%E0%AE%AF-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%B2--%E0%AE%8E%E0%AE%A9-%E0%AE%8E%E0%AE%9F-%E0%AE%A4%E0%AE%95%E0%AE%95%E0%AE%A9%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%A8%E0%AE%A9-%E0%AE%8E%E0%AE%9F%E0%AE%A4%E0%AE%A4-%E0%AE%9A%E0%AE%B1%E0%AE%AF-%E0%AE%AA%E0%AE%B4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%9F%E0%AE%95-%E0%AE%95%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AE%E0%AE%B2-%E0%AE%B5%E0%AE%B7%E0%AE%AE-%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%A8%E0%AE%A3%E0%AE%AA%E0%AE%A9%E0%AE%95%E0%AE%95%E0%AE%AA-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AF-%E0%AE%A8%E0%AE%A3%E0%AE%95%E0%AE%95%E0%AE%AE--%E0%AE%8F%E0%AE%B1%E0%AE%95%E0%AE%A9%E0%AE%B5-%E0%AE%B5%E0%AE%9F-%E0%AE%89%E0%AE%B0%E0%AE%AE-%E0%AE%89%E0%AE%A9%E0%AE%95%E0%AE%95-%E0%AE%A4%E0%AE%A9/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%B8-%E0%AE%95%E0%AE%9E%E0%AE%9A%E0%AE%AE-%E0%AE%95%E0%AE%9E%E0%AE%9A%E0%AE%AE-%E0%AE%A8%E0%AE%A9-%E0%AE%9A%E0%AE%A4%E0%AE%A4-%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95--%E0%AE%92%E0%AE%B0-%E0%AE%AA%E0%AE%A9-%E0%AE%AA%E0%AE%B0%E0%AE%9F%E0%AE%9F%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%92%E0%AE%B0-%E0%AE%87%E0%AE%B0%E0%AE%B5-%E0%AE%AE%E0%AE%9F%E0%AE%9F%E0%AE%AE-%E0%AE%B5%E0%AE%A8%E0%AE%A4-%E0%AE%AA%E0%AE%9F%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%9A%E0%AE%9A%E0%AE%95%E0%AE%B3%E0%AE%AE-%E0%AE%95%E0%AE%B5%E0%AE%B2%E0%AE%AF%E0%AE%B2%E0%AE%B2-%E0%AE%B5%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%B3%E0%AE%AF%E0%AE%AE--%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%95%E0%AE%A3%E0%AE%95%E0%AE%95%E0%AE%B3%E0%AE%B0-%E0%AE%95%E0%AE%A4%E0%AE%95%E0%AE%B3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%9A%E0%AE%B3%E0%AE%AA%E0%AE%AA%E0%AE%AF-%E0%AE%8E%E0%AE%A9-%E0%AE%AE%E0%AE%B1%E0%AE%AF%E0%AE%B2%E0%AE%A4%E0%AE%A9-%E0%AE%85%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%A3%E0%AE%AE---%E0%AE%AA%E0%AE%B4%E0%AE%AF%E0%AE%B5%E0%AE%B0%E0%AE%95%E0%AE%B3-%E0%AE%85%E0%AE%B1%E0%AE%B5-vs-%E0%AE%AA%E0%AE%A4%E0%AE%AF-%E0%AE%A4%E0%AE%B2%E0%AE%AE%E0%AE%B1-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%85%E0%AE%AE%E0%AE%AE%E0%AE%B5%E0%AE%A9-%E0%AE%9A%E0%AE%B2%E0%AE%B2%E0%AE%AA%E0%AE%AA%E0%AE%B3%E0%AE%B3--%E0%AE%93%E0%AE%B0-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%AA%E0%AE%A3%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%95%E0%AE%AE%E0%AE%9F-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%B0%E0%AE%AE-%E0%AE%AA%E0%AE%95%E0%AE%95%E0%AE%99-%E0%AE%B0%E0%AE%95%E0%AE%9A%E0%AE%AF-%E0%AE%B5%E0%AE%AA%E0%AE%AA-%E0%AE%AE%E0%AE%B1%E0%AE%A8%E0%AE%A4-%E0%AE%B5%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%A9%E0%AE%B0--%E0%AE%93%E0%AE%B0-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%AF%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%AE%E0%AE%B0%E0%AE%AE%E0%AE%95%E0%AE%A4%E0%AE%AF/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%85%E0%AE%A3%E0%AE%A3-%E0%AE%A4%E0%AE%A4%E0%AE%AF-%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%AA%E0%AE%A4%E0%AE%AE-%E0%AE%B5%E0%AE%9F%E0%AE%A4-%E0%AE%9C%E0%AE%95%E0%AE%95%E0%AE%95%E0%AE%B3-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0-%E0%AE%95%E0%AE%B3%E0%AE%B5%E0%AE%95%E0%AE%B3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%95%E0%AE%A4%E0%AE%B2-%E0%AE%AE%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%AA%E0%AE%B1%E0%AE%95-%E0%AE%8E%E0%AE%A9-%E0%AE%AA%E0%AE%AF%E0%AE%B0-%E0%AE%95%E0%AE%9F%E0%AE%AA%E0%AE%AA%E0%AE%A4-%E0%AE%89%E0%AE%A9-%E0%AE%AE%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%B4%E0%AE%A4%E0%AE%A4-%E0%AE%95%E0%AE%9F%E0%AE%9F%E0%AE%B1%E0%AE%A9/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%B0-%E0%AE%B2-%E0%AE%B5%E0%AE%B3%E0%AE%A8%E0%AE%9F%E0%AE%95%E0%AE%B3%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%A9-%E0%AE%A4%E0%AE%B3%E0%AE%B3-%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%95%E0%AE%AE%E0%AE%AA%E0%AE%B2-%E0%AE%95%E0%AE%AF%E0%AE%B2%E0%AE%B0%E0%AE%A8%E0%AE%A4-%E0%AE%AE%E0%AE%A4-%E0%AE%95%E0%AE%AF%E0%AE%B2-%E0%AE%AA%E0%AE%A9-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%A3%E0%AE%95%E0%AE%95%E0%AE%B0-%E0%AE%AE%E0%AE%A4%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%B3%E0%AE%B2-%E0%AE%A8%E0%AE%B0%E0%AE%AE-%E0%AE%9A%E0%AE%99%E0%AE%95%E0%AE%9F%E0%AE%AE--%E0%AE%93%E0%AE%B0-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%A9%E0%AE%A3%E0%AE%AA-%E0%AE%AA%E0%AE%A3%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%B0%E0%AE%A8%E0%AE%A4-%E0%AE%AE%E0%AE%9A%E0%AE%AF%E0%AE%B2-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%B2--%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%AA%E0%AE%95%E0%AE%95%E0%AE%A4%E0%AE%A4-%E0%AE%B5%E0%AE%9F%E0%AE%9F%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%9F%E0%AE%9F%E0%AE%AF%E0%AE%B2%E0%AE%95-%E0%AE%9A%E0%AE%B1/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%95%E0%AE%9F%E0%AE%AF%E0%AE%B2-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0-%E0%AE%95%E0%AE%B5%E0%AE%B4%E0%AE%A4%E0%AE%A4-%E0%AE%8E%E0%AE%B4%E0%AE%AA%E0%AE%AA%E0%AE%AF-%E0%AE%95%E0%AE%B0-%E0%AE%9A%E0%AE%A3%E0%AE%9F--%E0%AE%92%E0%AE%B0-%E0%AE%AA%E0%AE%A3%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%89%E0%AE%A3%E0%AE%AE%E0%AE%AF%E0%AE%A9-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%87%E0%AE%B0%E0%AE%B5-%E0%AE%87%E0%AE%B0%E0%AE%A3%E0%AE%9F-%E0%AE%AE%E0%AE%A3%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%A8%E0%AE%A9-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AE%A4-%E0%AE%AA%E0%AE%B4-%E0%AE%85%E0%AE%B5%E0%AE%B3-%E0%AE%A8%E0%AE%A9%E0%AE%B5-%E0%AE%AA%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%AE%E0%AE%9F%E0%AE%9F%E0%AE%B3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%B0%E0%AE%9F-%E0%AE%AA%E0%AE%A3%E0%AE%A3%E0%AE%AA-%E0%AE%AA%E0%AE%A3%E0%AE%A3%E0%AE%AA-%E0%AE%93%E0%AE%AF%E0%AE%A8%E0%AE%A4-%E0%AE%AA%E0%AE%9A%E0%AE%99%E0%AE%95%E0%AE%B3-%E0%AE%85%E0%AE%9A%E0%AE%99%E0%AE%95%E0%AE%AA-%E0%AE%AA%E0%AE%A3%E0%AE%A3%E0%AE%AF-%E0%AE%AA%E0%AE%B4--%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%B5%E0%AE%B0%E0%AE%9A%E0%AE%AF%E0%AE%AE%E0%AE%A9-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%9A%E0%AE%AE%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%95%E0%AE%B2-%E0%AE%95%E0%AE%9F%E0%AE%9F%E0%AE%AE--%E0%AE%AE%E0%AE%B2%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%AE%E0%AE%A8%E0%AE%A4%E0%AE%B0%E0%AE%AE-%E0%AE%8A%E0%AE%B4%E0%AE%AF%E0%AE%B0%E0%AE%A9-%E0%AE%A8%E0%AE%AF%E0%AE%A3%E0%AE%9F/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%92%E0%AE%B0-%E0%AE%B0%E0%AE%AA%E0%AE%AF%E0%AE%95%E0%AE%95-%E0%AE%AE%E0%AE%B2-%E0%AE%95%E0%AE%AA%E0%AE%AE--%E0%AE%85%E0%AE%B2%E0%AE%B5%E0%AE%B2%E0%AE%95%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%95%E0%AE%9E%E0%AE%9A%E0%AE%A4%E0%AE%A4%E0%AE%A9%E0%AE%A4%E0%AE%A4%E0%AE%A9-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%85%E0%AE%9F%E0%AE%99%E0%AE%95%E0%AE%AA%E0%AE%AA-%E0%AE%86%E0%AE%B3%E0%AE%95%E0%AE%95-%E0%AE%9A%E0%AE%9F%E0%AE%9F-%E0%AE%87%E0%AE%B2%E0%AE%B2%E0%AE%A9%E0%AE%A9-%E0%AE%AA%E0%AE%B5%E0%AE%9F-%E0%AE%AA%E0%AE%9F%E0%AE%9F%E0%AE%AA-%E0%AE%AA%E0%AE%A9-%E0%AE%95%E0%AE%AE%E0%AE%AA%E0%AE%A9-%E0%AE%AA%E0%AE%B1%E0%AE%9F--%E0%AE%92%E0%AE%B0-%E0%AE%95%E0%AE%AE%E0%AE%9F-%E0%AE%95%E0%AE%B2%E0%AE%9F%E0%AE%9F/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0-%E0%AE%9A%E0%AE%B5--%E0%AE%8E%E0%AE%A9%E0%AE%A9%E0%AE%A4-%E0%AE%87%E0%AE%A9%E0%AE%A9%E0%AE%AE-%E0%AE%92%E0%AE%B0-%E0%AE%B050-%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%A3%E0%AE%AE-%E0%AE%8E%E0%AE%A9%E0%AE%B1-%E0%AE%92%E0%AE%B0-%E0%AE%95%E0%AE%B4%E0%AE%AA%E0%AE%AA%E0%AE%AE%E0%AE%A9-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%85%E0%AE%A4%E0%AE%B2%E0%AE%B2%E0%AE%AE-%E0%AE%8E%E0%AE%A9%E0%AE%95%E0%AE%95%E0%AE%A4-%E0%AE%A4%E0%AE%B0%E0%AE%AF%E0%AE%A4--%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%95-%E0%AE%AE%E0%AE%A9%E0%AE%AE%E0%AE%B2%E0%AE%B2-%E0%AE%9A%E0%AE%B0-%E0%AE%85%E0%AE%A3%E0%AE%A3-%E0%AE%87%E0%AE%A8%E0%AE%A4-%E0%AE%B5%E0%AE%B2-%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%95%E0%AE%95/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%89%E0%AE%A4%E0%AE%A4%E0%AE%B0%E0%AE%B5%E0%AE%A4%E0%AE%AE-%E0%AE%A4%E0%AE%B0%E0%AE%B5%E0%AE%B2%E0%AE%B2-%E0%AE%8E%E0%AE%A9%E0%AE%B2-%E0%AE%8E%E0%AE%A9-%E0%AE%AA%E0%AE%B4%E0%AE%A4%E0%AE%A9-%E0%AE%B5%E0%AE%A4%E0%AE%A4%E0%AE%AF%E0%AE%9A%E0%AE%AE%E0%AE%A9%E0%AE%A4--%E0%AE%92%E0%AE%B0%E0%AE%B5%E0%AE%A9%E0%AE%A9-%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%B0%E0%AE%B5%E0%AE%9E%E0%AE%9A-%E0%AE%95%E0%AE%A4%E0%AE%AF%E0%AE%9F%E0%AE%A9-%E0%AE%A4%E0%AE%AE%E0%AE%B4-%E0%AE%85%E0%AE%B2%E0%AE%9A%E0%AE%B2/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%95%E0%AE%B3%E0%AE%B5%E0%AE%A3%E0%AE%95%E0%AE%B3-%E0%AE%95%E0%AE%A3%E0%AE%A3%E0%AE%B0-%E0%AE%9A%E0%AE%B0%E0%AE%AA%E0%AE%AA%E0%AE%B2-%E0%AE%86%E0%AE%9F%E0%AE%9F%E0%AE%AA%E0%AE%AA%E0%AE%9F-%E0%AE%B5%E0%AE%A4%E0%AE%A4-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%9F-%E0%AE%85%E0%AE%A3%E0%AE%AF%E0%AE%B2%E0%AE%AF-%E0%AE%A8%E0%AE%AE%E0%AE%AE-%E0%AE%95%E0%AE%9F-%E0%AE%B8%E0%AE%9F%E0%AE%B2-%E0%AE%AA%E0%AE%B0%E0%AE%99%E0%AE%95--%E0%AE%92%E0%AE%B0-%E0%AE%AA%E0%AE%B0%E0%AE%A3%E0%AE%9F-%E0%AE%B7%E0%AE%AA%E0%AE%AA%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%95%E0%AE%B2%E0%AE%9F%E0%AE%9F/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%A4%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%A4%E0%AE%A3-%E0%AE%A4%E0%AE%B0%E0%AE%AE--%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%B1%E0%AE%AF-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%9A%E0%AE%95%E0%AE%95%E0%AE%B5%E0%AE%A9-%E0%AE%9A%E0%AE%AE%E0%AE%AE%E0%AE%A4%E0%AE%A9-%E0%AE%B5%E0%AE%9F-%E0%AE%A8%E0%AE%A3%E0%AE%AA%E0%AE%A9-%E0%AE%A4%E0%AE%AA%E0%AE%AA%E0%AE%95%E0%AE%95-%E0%AE%B5%E0%AE%B4%E0%AE%95%E0%AE%95-%E0%AE%B5%E0%AE%9F%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%A4%E0%AE%A4%E0%AE%A9-%E0%AE%AA%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%B0%E0%AE%B5%E0%AE%9E%E0%AE%9A/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%A4%E0%AE%A4%E0%AE%95%E0%AE%95-%E0%AE%95%E0%AE%9F-%E0%AE%95%E0%AE%83%E0%AE%AA-%E0%AE%B5%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%9F%E0%AE%9A%E0%AE%9A%E0%AE%9F%E0%AE%9F-%E0%AE%9A%E0%AE%AE%E0%AE%AA%E0%AE%B5%E0%AE%AE--%E0%AE%AE%E0%AE%A9%E0%AE%9C%E0%AE%B0%E0%AE%AF%E0%AE%A9-%E0%AE%95%E0%AE%9F%E0%AE%9F%E0%AE%B3%E0%AE%AF%E0%AE%AA-%E0%AE%AA%E0%AE%A9%E0%AE%AA%E0%AE%B1%E0%AE%B1%E0%AE%AF-%E0%AE%A8%E0%AE%AF%E0%AE%A3%E0%AE%9F/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%92%E0%AE%B0-%E0%AE%AA%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%9F%E0%AE%9F%E0%AE%AE-%E0%AE%95%E0%AE%9F%E0%AE%95%E0%AE%B2%E0%AE%AE--%E0%AE%AA%E0%AE%B3%E0%AE%B3-%E0%AE%AF%E0%AE%9A%E0%AE%A9%E0%AE%95%E0%AE%95-%E0%AE%85%E0%AE%AA%E0%AE%AA-%E0%AE%B7%E0%AE%95-%E0%AE%86%E0%AE%A9%E0%AE%B0/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%9A%E0%AE%A4%E0%AE%A4%E0%AE%AE%E0%AE%B2%E0%AE%B2%E0%AE%A4-%E0%AE%9A%E0%AE%95-%E0%AE%8A%E0%AE%B4%E0%AE%AF%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AE%A4-%E0%AE%9A%E0%AE%B1%E0%AE%AF-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%B2--%E0%AE%9A%E0%AE%B0%E0%AE%AA%E0%AE%AA%E0%AE%AE-%E0%AE%9A%E0%AE%A8%E0%AE%A4%E0%AE%A9%E0%AE%AF%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%9A-%E0%AE%AA%E0%AE%9A%E0%AE%B5-%E0%AE%95%E0%AE%A3%E0%AE%95%E0%AE%95%E0%AE%9F%E0%AE%9F-%E0%AE%B5%E0%AE%9F%E0%AE%9F%E0%AE%AE%E0%AE%9F%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%B0%E0%AE%9A%E0%AE%AA%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%B5%E0%AE%9F%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%B0%E0%AE%AF%E0%AE%A9-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%92%E0%AE%B0-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AA%E0%AE%A3%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%A9-weekend-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%95%E0%AE%B3-%E0%AE%9A%E0%AE%AE%E0%AE%AE-%E0%AE%A8%E0%AE%A9%E0%AE%9A%E0%AE%9A-%E0%AE%9A%E0%AE%AE%E0%AE%AF/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%A4%E0%AE%A9%E0%AE%AF-%E0%AE%9F%E0%AE%AF%E0%AE%9F%E0%AE%9F-%E0%AE%AA%E0%AE%B0%E0%AE%A4%E0%AE%A4-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%B0%E0%AE%9A%E0%AE%AA%E0%AE%B7%E0%AE%A9%E0%AE%B8%E0%AE%9F---%E0%AE%87%E0%AE%A4-%E0%AE%A8%E0%AE%AF%E0%AE%AF%E0%AE%AE-%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%B0%E0%AE%AA%E0%AE%AA%E0%AE%AE-%E0%AE%9A%E0%AE%A8%E0%AE%A4%E0%AE%A9%E0%AE%AF%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%95-%E0%AE%8E%E0%AE%A8%E0%AE%A4-%E0%AE%95--%E0%AE%92%E0%AE%B0-%E0%AE%AA%E0%AE%A4%E0%AE%A4%E0%AE%AF%E0%AE%95%E0%AE%95%E0%AE%B0-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%9A%E0%AE%A9%E0%AE%A9%E0%AE%95%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%B0%E0%AE%AE-%E0%AE%92%E0%AE%B0-%E0%AE%95%E0%AE%B2%E0%AE%9F%E0%AE%9F--%E0%AE%9A%E0%AE%B1%E0%AE%B1-%E0%AE%9A%E0%AE%B0%E0%AE%95%E0%AE%95%E0%AE%B5%E0%AE%AE-%E0%AE%9A%E0%AE%A8%E0%AE%A4%E0%AE%95%E0%AE%99%E0%AE%95%E0%AE%B3-%E0%AE%95%E0%AE%9F%E0%AE%95%E0%AE%B5%E0%AE%AE-%E0%AE%B5%E0%AE%A8%E0%AE%A4-%E0%AE%B5%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%B0-%E0%AE%B8%E0%AE%AA%E0%AE%B7%E0%AE%B2/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9-%E0%AE%95%E0%AE%A3%E0%AE%B5%E0%AE%B0--%E0%AE%AE%E0%AE%A9%E0%AE%A4-%E0%AE%95%E0%AE%B8-%E0%AE%9A%E0%AE%AE%E0%AE%AA%E0%AE%B0-%E0%AE%B5%E0%AE%9F-%E0%AE%B5%E0%AE%AF%E0%AE%B2%E0%AE%95%E0%AE%B1%E0%AE%B1-%E0%AE%B5%E0%AE%AF%E0%AE%B2%E0%AE%95-%E0%AE%AE%E0%AE%B1%E0%AE%AF-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%87%E0%AE%A9%E0%AE%A9%E0%AE%AE-%E0%AE%A4%E0%AE%99%E0%AE%95%E0%AE%95%E0%AE%95%E0%AE%9F%E0%AE%9F-%E0%AE%87%E0%AE%B2%E0%AE%B5%E0%AE%9A-%E0%AE%B0%E0%AE%A4%E0%AE%A4-%E0%AE%B5%E0%AE%A3%E0%AE%AE%E0%AE%AE--%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%95%E0%AE%B3%E0%AE%A9-%E0%AE%95%E0%AE%AE%E0%AE%9F-%E0%AE%95%E0%AE%A4%E0%AE%95%E0%AE%B3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2%E0%AE%B2-%E0%AE%AE%E0%AE%B0%E0%AE%9F%E0%AE%9F-%E0%AE%85%E0%AE%A3%E0%AE%9F%E0%AE%AE%E0%AE%A9%E0%AE%95%E0%AE%95-%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%B1%E0%AE%AA%E0%AE%AA-%E0%AE%95%E0%AE%B2-%E0%AE%89%E0%AE%A3%E0%AE%B5--%E0%AE%92%E0%AE%B0-%E0%AE%A4%E0%AE%AE%E0%AE%B4-%E0%AE%95%E0%AE%9F%E0%AE%AE%E0%AE%AA%E0%AE%A4%E0%AE%A4%E0%AE%A9-%E0%AE%AA%E0%AE%9A%E0%AE%99%E0%AE%95-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%B2%E0%AE%B2%E0%AE%B0%E0%AE%AE-%E0%AE%B5%E0%AE%B0%E0%AE%B5%E0%AE%B2-%E0%AE%B5%E0%AE%A8%E0%AE%A4%E0%AE%B2-%E0%AE%92%E0%AE%B0%E0%AE%B5%E0%AE%B0-%E0%AE%95%E0%AE%9F-%E0%AE%AE%E0%AE%A9%E0%AE%AA%E0%AE%95-%E0%AE%B5%E0%AE%B0%E0%AE%B5%E0%AE%B2%E0%AE%B2--%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%AA%E0%AE%A3%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9-%E0%AE%AE%E0%AE%95%E0%AE%A9-%E0%AE%8E%E0%AE%A9%E0%AE%A9-%E0%AE%93%E0%AE%B0%E0%AE%AE%E0%AE%95%E0%AE%95%E0%AE%AF-%E0%AE%95%E0%AE%A4-%E0%AE%AA%E0%AE%A4%E0%AE%A4-%E0%AE%8E%E0%AE%B4%E0%AE%A4%E0%AE%A4-%E0%AE%9A%E0%AE%95%E0%AE%95%E0%AE%B2%E0%AE%B2-%E0%AE%9A%E0%AE%B0%E0%AE%AA%E0%AE%AA%E0%AE%AE-%E0%AE%9A%E0%AE%B4%E0%AE%9A%E0%AE%9A%E0%AE%AF%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%89%E0%AE%99%E0%AE%95%E0%AE%B3-%E0%AE%AA%E0%AE%AF%E0%AE%B0-%E0%AE%AA%E0%AE%A4%E0%AE%95%E0%AE%95%E0%AE%AE-%E0%AE%87%E0%AE%B2%E0%AE%B2%E0%AE%AF%E0%AE%A9%E0%AE%B2-%E0%AE%95%E0%AE%AA%E0%AE%AA-%E0%AE%95%E0%AE%9F-%E0%AE%8E%E0%AE%9F%E0%AE%95%E0%AE%95-%E0%AE%AE%E0%AE%9F%E0%AE%AF%E0%AE%A4--%E0%AE%92%E0%AE%B0-%E0%AE%AA%E0%AE%A4-%E0%AE%8A%E0%AE%B4%E0%AE%AF%E0%AE%B0%E0%AE%A9-%E0%AE%85%E0%AE%B2%E0%AE%AA%E0%AE%AA%E0%AE%B1%E0%AE%95%E0%AE%B3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%A8%E0%AE%B0%E0%AE%9F-%E0%AE%AA%E0%AE%9A%E0%AE%9A--%E0%AE%87%E0%AE%A9%E0%AE%B1-%E0%AE%8E%E0%AE%99%E0%AE%95-%E0%AE%AE%E0%AE%B1%E0%AE%A8%E0%AE%A4%E0%AE%A4-reception-counter-%E0%AE%87%E0%AE%B2-%E0%AE%92%E0%AE%B0-%E0%AE%95%E0%AE%AE%E0%AE%9F-%E0%AE%95%E0%AE%A4%E0%AE%AF%E0%AE%9F%E0%AE%B2/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9-%E0%AE%95%E0%AE%B2%E0%AE%B2-%E0%AE%95%E0%AE%B0%E0%AE%AE%E0%AE%AA-%E0%AE%AA%E0%AE%A9-%E0%AE%8A%E0%AE%B0%E0%AE%B2-%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%95%E0%AE%A4%E0%AE%AF-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%B5%E0%AE%B2%E0%AE%95%E0%AE%95%E0%AE%B0%E0%AE%A9%E0%AE%A9-%E0%AE%87%E0%AE%B0%E0%AE%B5-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%87%E0%AE%B0%E0%AE%B5%E0%AE%B2%E0%AE%AE-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2%E0%AE%95%E0%AE%95-%E0%AE%B5%E0%AE%A8%E0%AE%A4-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%95%E0%AE%B3%E0%AE%AE-%E0%AE%B9%E0%AE%B2%E0%AE%95-%E0%AE%95%E0%AE%A4%E0%AE%B5%E0%AE%A4-%E0%AE%A4%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%95%E0%AE%B4%E0%AE%A8%E0%AE%A4%E0%AE%95%E0%AE%B3-%E0%AE%9A%E0%AE%B0%E0%AE%AA%E0%AE%AA%E0%AE%A4-%E0%AE%95%E0%AE%B1%E0%AE%9A%E0%AE%9A%E0%AE%B2-%E0%AE%85%E0%AE%B2%E0%AE%B2-%E0%AE%9A%E0%AE%A8%E0%AE%A4%E0%AE%B7%E0%AE%AE-%E0%AE%A4%E0%AE%A9--%E0%AE%93%E0%AE%B0-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%AA%E0%AE%A4%E0%AE%B5%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%95%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%92%E0%AE%B0-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%A8%E0%AE%9F-%E0%AE%86%E0%AE%9F%E0%AE%9F%E0%AE%9F%E0%AE%B0%E0%AE%A9-%E0%AE%89%E0%AE%AF%E0%AE%B0-%E0%AE%85%E0%AE%9A%E0%AE%9A%E0%AE%B1%E0%AE%A4%E0%AE%A4%E0%AE%AE-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE-%E0%AE%9F%E0%AE%B0%E0%AE%AE%E0%AE%B5%E0%AE%AE-%E0%AE%A4%E0%AE%B5%E0%AE%B1%E0%AE%95%E0%AE%B3%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%87%E0%AE%AA%E0%AE%AA%E0%AE%A4%E0%AE%AE-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2%E0%AE%95%E0%AE%95-%E0%AE%A8%E0%AE%B0%E0%AE%B2-%E0%AE%9A%E0%AE%A9%E0%AE%B1-%E0%AE%85%E0%AE%B1-%E0%AE%95%E0%AE%9F%E0%AE%AA%E0%AE%A4-%E0%AE%8F%E0%AE%A9--%E0%AE%9F%E0%AE%9C%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AF%E0%AE%95%E0%AE%A4%E0%AE%A4%E0%AE%B2%E0%AE%AE-%E0%AE%AA%E0%AE%B4%E0%AE%AF-%E0%AE%AA%E0%AE%B4%E0%AE%95%E0%AE%95%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%A3%E0%AE%9A%E0%AE%9A%E0%AE%AE-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AE%A4-%E0%AE%AE%E0%AE%B2%E0%AE%B3%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%95%E0%AE%B3%E0%AE%9F%E0%AE%9F%E0%AE%B0-%E0%AE%AA%E0%AE%A4%E0%AE%B2%E0%AE%9F--%E0%AE%87%E0%AE%A4%E0%AE%A4%E0%AE%A9-%E0%AE%A8%E0%AE%AE%E0%AE%AE-%E0%AE%8A%E0%AE%B0-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%B2/</loc>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%9F%E0%AE%9F-%E0%AE%AA%E0%AE%95%E0%AE%95%E0%AE%A4%E0%AE%A4-%E0%AE%B5%E0%AE%9A-%E0%AE%95%E0%AE%9F-%E0%AE%95%E0%AE%9F%E0%AE%9F-%E0%AE%B5%E0%AE%A8%E0%AE%A4%E0%AE%B0-%E0%AE%86%E0%AE%A9%E0%AE%B2-%E0%AE%85%E0%AE%B5%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%A4%E0%AE%A9-%E0%AE%95%E0%AE%9F-%E0%AE%AA%E0%AE%9F%E0%AE%95%E0%AE%95-%E0%AE%A8%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%A4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%B1%E0%AE%B1-%E0%AE%87%E0%AE%B2%E0%AE%B2%E0%AE%AF%E0%AE%A9-%E0%AE%95%E0%AE%AA%E0%AE%AA%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%B5%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%B3%E0%AE%95%E0%AE%B3-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%AA%E0%AE%95%E0%AE%A4-%E0%AE%8A%E0%AE%B4%E0%AE%AF%E0%AE%B0%E0%AE%A9-%E0%AE%95%E0%AE%B2%E0%AE%95%E0%AE%B2%E0%AE%AA%E0%AE%AA%E0%AE%A9-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%9F%E0%AE%95%E0%AE%9A%E0%AE%B8-%E0%AE%B5%E0%AE%AF%E0%AE%B2%E0%AE%B2-%E0%AE%95%E0%AE%B4%E0%AE%A8%E0%AE%A4%E0%AE%95%E0%AE%B3-%E0%AE%87%E0%AE%B0%E0%AE%95%E0%AE%95%E0%AE%B1%E0%AE%B0%E0%AE%95%E0%AE%B3-%E0%AE%8E%E0%AE%A9%E0%AE%B1-%E0%AE%AA%E0%AE%AF-%E0%AE%9A%E0%AE%B2%E0%AE%B2-%E0%AE%B8%E0%AE%AA%E0%AE%9F-%E0%AE%AA%E0%AE%9F%E0%AE%95%E0%AE%95-%E0%AE%AE%E0%AE%AF%E0%AE%A9%E0%AE%B1%E0%AE%B5%E0%AE%B0--%E0%AE%85%E0%AE%B5%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AE%A4-%E0%AE%9A%E0%AE%B1%E0%AE%AF-%E0%AE%AA%E0%AE%B4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%A8%E0%AE%A9-%E0%AE%8E%E0%AE%A9-%E0%AE%AE%E0%AE%B2%E0%AE%B3%E0%AE%B0-%E0%AE%AA%E0%AE%9A%E0%AE%99%E0%AE%95-%E0%AE%AE%E0%AE%A9%E0%AE%A9%E0%AE%9F-%E0%AE%AA%E0%AE%9E%E0%AE%9A%E0%AE%AF%E0%AE%A4%E0%AE%A4-%E0%AE%AA%E0%AE%9F%E0%AE%9F%E0%AE%A9--%E0%AE%92%E0%AE%B0-%E0%AE%95%E0%AE%B1%E0%AE%AE%E0%AE%AA%E0%AE%95%E0%AE%95%E0%AE%B0-%E0%AE%AA%E0%AE%A3%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%95%E0%AE%A4%E0%AE%AF%E0%AE%9F-%E0%AE%9A%E0%AE%B2%E0%AE%B2%E0%AE%B2%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%B5%E0%AE%B4%E0%AE%95%E0%AE%95--%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%95%E0%AE%B3%E0%AE%AE-%E0%AE%AE%E0%AE%B2%E0%AE%B3%E0%AE%B0%E0%AE%95%E0%AE%B3%E0%AE%AE-%E0%AE%A8%E0%AE%AE%E0%AE%AE-%E0%AE%95%E0%AE%B7%E0%AE%9F%E0%AE%99%E0%AE%95%E0%AE%B3%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%93%E0%AE%AF%E0%AE%AE%E0%AE%B2-%E0%AE%AE%E0%AE%B1%E0%AE%B1%E0%AE%B2%E0%AE%AE-%E0%AE%9A%E0%AE%A4%E0%AE%A8%E0%AE%A4-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2--%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%95%E0%AE%B3%E0%AE%A9-%E0%AE%AA%E0%AE%95%E0%AE%B0%E0%AE%AE-%E0%AE%AA%E0%AE%A3%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%AE%E0%AE%A9-%E0%AE%85%E0%AE%B4%E0%AE%A4%E0%AE%A4%E0%AE%AE%E0%AE%AE/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/%E0%AE%95%E0%AE%9E%E0%AE%9A%E0%AE%AE-%E0%AE%95%E0%AE%9F-%E0%AE%AA%E0%AE%B1%E0%AE%AA%E0%AE%AA-%E0%AE%87%E0%AE%B2%E0%AE%B2%E0%AE%AE-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0-%E0%AE%95%E0%AE%9E%E0%AE%9A%E0%AE%AE-%E0%AE%95%E0%AE%A4-%E0%AE%AE%E0%AE%9F%E0%AE%9F%E0%AE%B2%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%92%E0%AE%B0-%E0%AE%A8%E0%AE%B3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%A9-%E0%AE%AE%E0%AE%B4%E0%AE%AF%E0%AE%B2-%E0%AE%AA%E0%AE%9A%E0%AE%9A--%E0%AE%A8%E0%AE%A3%E0%AE%AA%E0%AE%B0%E0%AE%95%E0%AE%B3-%E0%AE%AE%E0%AE%B4%E0%AE%AA%E0%AE%AF%E0%AE%B0%E0%AE%AA%E0%AE%AA%E0%AE%B3%E0%AE%B0-%E0%AE%87%E0%AE%B2%E0%AE%B2%E0%AE%AE%E0%AE%B2-%E0%AE%B5%E0%AE%9F%E0%AE%9F-%E0%AE%A8%E0%AE%95%E0%AE%B0%E0%AE%B5%E0%AE%A9-%E0%AE%AA%E0%AE%A3%E0%AE%A3%E0%AE%AF-%E0%AE%AA%E0%AE%AF%E0%AE%A3%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2%E0%AE%B2-%E0%AE%95%E0%AE%B2-%E0%AE%AE%E0%AE%A9-%E0%AE%9A%E0%AE%B5-%E0%AE%A8%E0%AE%AF---%E0%AE%92%E0%AE%B0-%E0%AE%AE%E0%AE%9A%E0%AE%AE%E0%AE%A9-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%99%E0%AE%95%E0%AE%B3-%E0%AE%AE%E0%AE%A4%E0%AE%AF-%E0%AE%89%E0%AE%A3%E0%AE%B5-%E0%AE%95%E0%AE%A3%E0%AE%95%E0%AE%A3%E0%AE%AA%E0%AE%AA%E0%AE%B3%E0%AE%B0-%E0%AE%87%E0%AE%B5%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%8F%E0%AE%A4-%E0%AE%9A%E0%AE%A8%E0%AE%A4%E0%AE%95%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%AE%E0%AE%9F%E0%AE%AF-%E0%AE%AE%E0%AE%9F%E0%AE%AF%E0%AE%A4-%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%9F--%E0%AE%92%E0%AE%B0-%E0%AE%A4%E0%AE%B4%E0%AE%B2%E0%AE%A8%E0%AE%9F%E0%AE%AA-%E0%AE%89%E0%AE%A4%E0%AE%B5-%E0%AE%95%E0%AE%A4%E0%AE%AF%E0%AE%B2%E0%AE%B0%E0%AE%A8%E0%AE%A4-%E0%AE%A8%E0%AE%95%E0%AE%9A%E0%AE%9A%E0%AE%B5/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%B7%E0%AE%AA%E0%AE%AA%E0%AE%B2-%E0%AE%B8%E0%AE%9F%E0%AE%95%E0%AE%95-%E0%AE%8E%E0%AE%A3%E0%AE%A3%E0%AE%AE-%E0%AE%AA%E0%AE%A4-%E0%AE%B5%E0%AE%A8%E0%AE%A4-%E0%AE%9A%E0%AE%B0%E0%AE%AA%E0%AE%AA--%E0%AE%85%E0%AE%B2%E0%AE%B5%E0%AE%B2%E0%AE%95%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%9A%E0%AE%AE%E0%AE%AF%E0%AE%B2-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%95%E0%AE%AA%E0%AE%A4%E0%AE%A4%E0%AE%95%E0%AE%95%E0%AE%95-%E0%AE%9A%E0%AE%AF%E0%AE%A4-%E0%AE%9A%E0%AE%B1%E0%AE%AF-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%B2--%E0%AE%A8%E0%AE%A3%E0%AE%AA%E0%AE%A9-%E0%AE%9A%E0%AE%95%E0%AE%B0%E0%AE%9F-%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%A9%E0%AE%A9-%E0%AE%89%E0%AE%A9%E0%AE%95%E0%AE%95%E0%AE%A4%E0%AE%A4%E0%AE%A9/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%B0%E0%AE%95%E0%AE%95%E0%AE%99-%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%9F-%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%A9%E0%AE%A9-%E0%AE%85%E0%AE%A4-%E0%AE%A8%E0%AE%99%E0%AE%95%E0%AE%B3%E0%AE%A4%E0%AE%A9-%E0%AE%95%E0%AE%9F%E0%AE%9F%E0%AE%A3%E0%AE%AE--%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%B1%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%92%E0%AE%B0-%E0%AE%95%E0%AE%AE%E0%AE%9F-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%8A%E0%AE%A4%E0%AE%AF-%E0%AE%AE%E0%AE%9A%E0%AE%9F-%E0%AE%AE%E0%AE%B2-%E0%AE%A8%E0%AE%B0%E0%AE%B5%E0%AE%95%E0%AE%AE-%E0%AE%A8%E0%AE%AF%E0%AE%AF%E0%AE%AE-%E0%AE%8E%E0%AE%99%E0%AE%95--%E0%AE%93%E0%AE%B0-%E0%AE%85%E0%AE%AE%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%A8%E0%AE%9F-%E0%AE%86%E0%AE%9F%E0%AE%9F%E0%AE%9F%E0%AE%B0%E0%AE%A9-%E0%AE%9A%E0%AE%95%E0%AE%95%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%B2-%E0%AE%87%E0%AE%9F%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%A8%E0%AE%95%E0%AE%95-%E0%AE%95%E0%AE%9F%E0%AE%9F%E0%AE%AA%E0%AE%AA%E0%AE%9F-%E0%AE%87%E0%AE%B2%E0%AE%B2-%E0%AE%8E%E0%AE%A9%E0%AE%B1%E0%AE%B2-%E0%AE%B5%E0%AE%B2-%E0%AE%AA%E0%AE%B1%E0%AE%95%E0%AE%95%E0%AE%AE--%E0%AE%95%E0%AE%B5%E0%AE%A9-%E0%AE%95%E0%AE%A4%E0%AE%AF%E0%AE%9F%E0%AE%A9-%E0%AE%92%E0%AE%B0-%E0%AE%A8%E0%AE%AE%E0%AE%AE-%E0%AE%8A%E0%AE%B0-%E0%AE%AA%E0%AE%B0%E0%AE%B5/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%A8%E0%AE%A4%E0%AE%B0-%E0%AE%B5%E0%AE%A4%E0%AE%A4%E0%AE%AF%E0%AE%9A%E0%AE%AE%E0%AE%A9-%E0%AE%B5%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%A9%E0%AE%B0-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%AA%E0%AE%B2%E0%AE%95%E0%AE%AF%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%A8%E0%AE%95%E0%AE%9A%E0%AE%9A%E0%AE%B5-%E0%AE%95%E0%AE%B2%E0%AE%A8%E0%AE%A4-%E0%AE%92%E0%AE%B0-%E0%AE%A8%E0%AE%B3%E0%AE%B3%E0%AE%B0%E0%AE%B5-%E0%AE%A8%E0%AE%9F%E0%AE%95%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%89%E0%AE%A4%E0%AE%B5-%E0%AE%9A%E0%AE%AF%E0%AE%AF%E0%AE%A4%E0%AE%A9%E0%AE%A9-%E0%AE%9A%E0%AE%A9%E0%AE%A9%E0%AE%99%E0%AE%95-%E0%AE%86%E0%AE%A9-%E0%AE%AE%E0%AE%A9%E0%AE%B1-%E0%AE%A8%E0%AE%B3%E0%AE%B2-%E0%AE%95%E0%AE%A4%E0%AE%AF%E0%AE%B2-%E0%AE%A4%E0%AE%B0%E0%AE%AA%E0%AE%AA%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9-%E0%AE%AE%E0%AE%B2%E0%AE%B3%E0%AE%B0%E0%AE%B2-%E0%AE%8E%E0%AE%A9-%E0%AE%95%E0%AE%9F-%E0%AE%AA%E0%AE%A9%E0%AE%A4--%E0%AE%92%E0%AE%B0-%E0%AE%B5%E0%AE%B2%E0%AE%AA%E0%AE%AA%E0%AE%AF%E0%AE%A3%E0%AE%AF%E0%AE%A9-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%B2%E0%AE%83%E0%AE%AA%E0%AE%9F%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%AA%E0%AE%A4-%E0%AE%AA%E0%AE%B1%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%B4--%E0%AE%92%E0%AE%B0%E0%AE%A4%E0%AE%A4%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%A4%E0%AE%AE%E0%AE%B4-%E0%AE%B8%E0%AE%9F%E0%AE%B2%E0%AE%B2-%E0%AE%AA%E0%AE%A4%E0%AE%B2-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AE%A4-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%99%E0%AE%95%E0%AE%B3-%E0%AE%85%E0%AE%A3%E0%AE%9F-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%B0%E0%AE%AF%E0%AE%A9-%E0%AE%90%E0%AE%A8%E0%AE%A4%E0%AE%AE-%E0%AE%AA%E0%AE%B0%E0%AE%AE%E0%AE%A3%E0%AE%AE-%E0%AE%95%E0%AE%B0%E0%AE%AF%E0%AE%99%E0%AE%95%E0%AE%B3--%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%B1%E0%AE%AF-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%95%E0%AE%A3%E0%AE%9F-%E0%AE%B5%E0%AE%9F%E0%AE%9F-%E0%AE%B5%E0%AE%A9%E0%AE%AE-%E0%AE%AA%E0%AE%B0%E0%AE%A4%E0%AE%A4-%E0%AE%AA%E0%AE%A9%E0%AE%95%E0%AE%95-%E0%AE%A4%E0%AE%A4%E0%AE%A4--%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%92%E0%AE%B0-%E0%AE%95%E0%AE%AE%E0%AE%B3%E0%AE%A9-%E0%AE%9A%E0%AE%AE%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%AA%E0%AE%95%E0%AE%95%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%B9%E0%AE%B0%E0%AE%AF%E0%AE%AE-%E0%AE%B9%E0%AE%B0%E0%AE%AF%E0%AE%A9%E0%AE%AE-%E0%AE%87%E0%AE%B2%E0%AE%B2%E0%AE%AE%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%92%E0%AE%B0-%E0%AE%95%E0%AE%AE%E0%AE%9F-%E0%AE%A8%E0%AE%9F%E0%AE%95%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9%E0%AE%95%E0%AE%95-%E0%AE%AE%E0%AE%9F%E0%AE%9F%E0%AE%AE-%E0%AE%A4%E0%AE%A9-%E0%AE%8E%E0%AE%A9%E0%AE%B1-%E0%AE%A8%E0%AE%A9%E0%AE%A4%E0%AE%A4%E0%AE%B0-%E0%AE%86%E0%AE%A9-%E0%AE%85%E0%AE%B5%E0%AE%B0%E0%AE%9F%E0%AE%AF-%E0%AE%AF%E0%AE%95-%E0%AE%85%E0%AE%AE%E0%AE%B0%E0%AE%B5%E0%AE%AF-%E0%AE%8E%E0%AE%A9-%E0%AE%9A%E0%AE%B1%E0%AE%AF-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%B2%E0%AE%B2-%E0%AE%95%E0%AE%B3%E0%AE%B1-%E0%AE%B5%E0%AE%9F%E0%AE%9F%E0%AE%A9/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%AE%E0%AE%95%E0%AE%B2-%E0%AE%AE%E0%AE%9F%E0%AE%AF-%E0%AE%86%E0%AE%9A%E0%AE%B0%E0%AE%AF--%E0%AE%8E%E0%AE%A9-%E0%AE%95%E0%AE%A3%E0%AE%9F%E0%AE%B0%E0%AE%95%E0%AE%B0%E0%AE%9F%E0%AE%A9-%E0%AE%86%E0%AE%9A%E0%AE%B0%E0%AE%AF%E0%AE%AF-%E0%AE%A8%E0%AE%A9-%E0%AE%8E%E0%AE%AA%E0%AE%AA%E0%AE%9F-%E0%AE%B5%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%A4%E0%AE%A4%E0%AE%9F%E0%AE%A9-%E0%AE%B5%E0%AE%A9%E0%AE%B1%E0%AE%A9/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%95%E0%AE%B5%E0%AE%A9-%E0%AE%8E%E0%AE%A9%E0%AE%B1-%E0%AE%9A%E0%AE%95%E0%AE%A4%E0%AE%B0%E0%AE%A9%E0%AE%9F-%E0%AE%92%E0%AE%B0-%E0%AE%B5%E0%AE%B0%E0%AE%AE--%E0%AE%85%E0%AE%B2%E0%AE%B5%E0%AE%B2%E0%AE%95-%E0%AE%B5%E0%AE%B2%E0%AE%95%E0%AE%B3%E0%AE%B2-%E0%AE%92%E0%AE%B0-%E0%AE%A8%E0%AE%95%E0%AE%9A%E0%AE%9A%E0%AE%B5-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9-%E0%AE%B5%E0%AE%9F%E0%AE%9F-%E0%AE%B5%E0%AE%9A%E0%AE%B2-%E0%AE%AE%E0%AE%9F-%E0%AE%A8%E0%AE%A9%E0%AE%B1-%E0%AE%95%E0%AE%B0%E0%AE%95%E0%AE%95%E0%AE%AA-%E0%AE%AA%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%B2--%E0%AE%AA%E0%AE%B3%E0%AE%B3%E0%AE%95%E0%AE%95%E0%AE%9F%E0%AE%AE-%E0%AE%AA%E0%AE%95%E0%AE%95%E0%AE%A4%E0%AE%A4-%E0%AE%B5%E0%AE%9A%E0%AE%AF%E0%AE%A9-%E0%AE%9A%E0%AE%AE%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%85%E0%AE%A3%E0%AE%A3-%E0%AE%8E%E0%AE%A9-%E0%AE%B0%E0%AE%AE-%E0%AE%8E%E0%AE%A3-%E0%AE%8E%E0%AE%A9%E0%AE%A9%E0%AE%A9%E0%AE%A9-%E0%AE%AE%E0%AE%B1%E0%AE%A8%E0%AE%A4%E0%AE%9F%E0%AE%9F%E0%AE%A9--%E0%AE%93%E0%AE%B0-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%AA%E0%AE%A3%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%95%E0%AE%A4%E0%AE%95%E0%AE%95%E0%AE%B4%E0%AE%AE%E0%AE%AA/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%86%E0%AE%A9%E0%AE%B2%E0%AE%A9-%E0%AE%B5%E0%AE%AE%E0%AE%B0%E0%AE%9A%E0%AE%A9%E0%AE%AE-%E0%AE%8E%E0%AE%A9-%E0%AE%9A%E0%AE%95%E0%AE%A4%E0%AE%B0-%E0%AE%A8%E0%AE%A9%E0%AE%AE--%E0%AE%92%E0%AE%B0-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%A9%E0%AE%A3-%E0%AE%AE%E0%AE%9A-%E0%AE%95%E0%AE%A4%E0%AE%95%E0%AE%B3/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%A8%E0%AE%B2%E0%AE%B2-%E0%AE%AE%E0%AE%B1%E0%AE%AF%E0%AE%B2-%E0%AE%9A%E0%AE%B2%E0%AE%B2%E0%AE%95%E0%AE%95%E0%AE%9F%E0%AE%95%E0%AE%95-%E0%AE%B5%E0%AE%A3%E0%AE%9F%E0%AE%AE--%E0%AE%92%E0%AE%B0-%E0%AE%A8%E0%AE%A3%E0%AE%A3%E0%AE%AF-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%B2%E0%AE%B2%E0%AE%B0-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9-%E0%AE%AA%E0%AE%A4%E0%AE%AF%E0%AE%B2-%E0%AE%A4%E0%AE%9F-%E0%AE%B5%E0%AE%A4%E0%AE%A4-%E0%AE%89%E0%AE%99%E0%AE%95-%E0%AE%AA%E0%AE%9A%E0%AE%AE%E0%AE%A4-%E0%AE%A4%E0%AE%B3%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%AA%E0%AE%A4%E0%AE%AE-%E0%AE%B5%E0%AE%95%E0%AE%95%E0%AE%B1%E0%AE%A9--%E0%AE%92%E0%AE%B0-%E0%AE%AA%E0%AE%95%E0%AE%95%E0%AE%B5%E0%AE%9F%E0%AE%9F-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%AA%E0%AE%AA%E0%AE%B0-%E0%AE%A4%E0%AE%9F%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AE-%E0%AE%AA%E0%AE%B3%E0%AE%B8%E0%AE%9F%E0%AE%95-%E0%AE%95%E0%AE%B0%E0%AE%A3%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%AA%E0%AE%AE--%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%B0%E0%AE%9A%E0%AE%AA%E0%AE%B7%E0%AE%A9%E0%AE%B2-%E0%AE%92%E0%AE%B0-%E0%AE%85%E0%AE%9A%E0%AE%A4%E0%AE%A4%E0%AE%B2%E0%AE%A9-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%A3%E0%AE%AE%E0%AE%AE-%E0%AE%85%E0%AE%A4%E0%AE%95%E0%AE%B0%E0%AE%AE%E0%AE%AE-%E0%AE%9A%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%B2-%E0%AE%95%E0%AE%B0%E0%AE%A9-%E0%AE%AE%E0%AE%A4%E0%AE%B0-%E0%AE%86%E0%AE%B3%E0%AE%95%E0%AE%B3-%E0%AE%8E%E0%AE%AA%E0%AE%AA%E0%AE%9F-%E0%AE%87%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%B0%E0%AE%AA%E0%AE%AA%E0%AE%99%E0%AE%95-%E0%AE%92%E0%AE%B0-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%A9-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%9A%E0%AE%95%E0%AE%95%E0%AE%B0%E0%AE%AA-%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%87%E0%AE%99%E0%AE%95-bike-locker-%E0%AE%8E%E0%AE%99%E0%AE%95-%E0%AE%87%E0%AE%B0%E0%AE%95%E0%AE%95%E0%AE%A9%E0%AE%A9-%E0%AE%9A%E0%AE%B2%E0%AE%B2%E0%AE%99%E0%AE%95%E0%AE%AA%E0%AE%AA/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%87%E0%AE%99%E0%AE%95-%E0%AE%A4%E0%AE%A9-%E0%AE%8E%E0%AE%99%E0%AE%95%E0%AE%B3-%E0%AE%93%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%87%E0%AE%B2%E0%AE%B2%E0%AE%99%E0%AE%95%E0%AE%A9%E0%AE%A9-%E0%AE%92%E0%AE%B1%E0%AE%B1%E0%AE%AE-%E0%AE%95%E0%AE%9F%E0%AE%9F%E0%AE%AE-%E0%AE%B5%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%B3%E0%AE%95%E0%AE%B3/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%92%E0%AE%B0-%E0%AE%B5%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%9F%E0%AE%9F%E0%AE%B0-%E0%AE%87%E0%AE%B1%E0%AE%A8%E0%AE%A4-%E0%AE%AA%E0%AE%99%E0%AE%95%E0%AE%B5%E0%AE%AF-%E0%AE%AE%E0%AE%9F%E0%AE%A3%E0%AE%AE%E0%AE%AE---%E0%AE%95%E0%AE%AE%E0%AE%9F-%E0%AE%95%E0%AE%AA%E0%AE%AE-%E0%AE%95%E0%AE%B2%E0%AE%A8%E0%AE%A4-%E0%AE%92%E0%AE%B0-%E0%AE%B5%E0%AE%B2-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%95%E0%AE%A3%E0%AE%A9-%E0%AE%A4%E0%AE%B0%E0%AE%AF%E0%AE%A9-%E0%AE%B5%E0%AE%9A%E0%AE%A9--%E0%AE%B5%E0%AE%9A%E0%AE%95%E0%AE%95%E0%AE%A4-%E0%AE%A4%E0%AE%AF%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%89%E0%AE%B2%E0%AE%95%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%93%E0%AE%9F%E0%AE%9F%E0%AE%B2%E0%AE%B2-%E0%AE%B5%E0%AE%B0%E0%AE%B5%E0%AE%B1%E0%AE%AA-%E0%AE%AE%E0%AE%9A%E0%AE%AF%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%89%E0%AE%A3%E0%AE%AE-%E0%AE%95%E0%AE%AE%E0%AE%9F-%E0%AE%8F%E0%AE%A9-%E0%AE%86%E0%AE%A4%E0%AE%B0%E0%AE%AE-%E0%AE%95%E0%AE%9F%E0%AE%9F-%E0%AE%9A%E0%AE%A9%E0%AE%A9%E0%AE%B0%E0%AE%95%E0%AE%B3-%E0%AE%8E%E0%AE%A9%E0%AE%95%E0%AE%B1-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%95%E0%AE%B3%E0%AE%A9-%E0%AE%95%E0%AE%B2%E0%AE%9F%E0%AE%9F/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%87%E0%AE%B2%E0%AE%B5%E0%AE%9A%E0%AE%AE%E0%AE%95%E0%AE%95-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AE%A4-%E0%AE%95%E0%AE%A3%E0%AE%A9%E0%AE%AF%E0%AE%AF-%E0%AE%B5%E0%AE%B2-%E0%AE%9A%E0%AE%AF%E0%AE%AF-%E0%AE%B5%E0%AE%95%E0%AE%95-%E0%AE%AE%E0%AE%9F%E0%AE%AF%E0%AE%B5%E0%AE%B2%E0%AE%B2--%E0%AE%92%E0%AE%B0-it-%E0%AE%A8%E0%AE%A3%E0%AE%AA%E0%AE%B0%E0%AE%A9-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%B0%E0%AE%A3%E0%AE%9F%E0%AE%B0-%E0%AE%9A%E0%AE%B5%E0%AE%9F%E0%AE%9A%E0%AE%AA-%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%92%E0%AE%B0-%E0%AE%AA%E0%AE%A4-%E0%AE%9A%E0%AE%A8%E0%AE%95%E0%AE%A4%E0%AE%AE-%E0%AE%A4%E0%AE%B4%E0%AE%B2%E0%AE%A8%E0%AE%9F%E0%AE%AA-%E0%AE%89%E0%AE%A4%E0%AE%B5%E0%AE%AF%E0%AE%B2-%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%B0%E0%AE%AA%E0%AE%AA-%E0%AE%AA%E0%AE%AF%E0%AE%A3%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%92%E0%AE%B5%E0%AE%B5%E0%AE%B0-%E0%AE%AE%E0%AE%B2%E0%AE%AF%E0%AE%AE-7-%E0%AE%AE%E0%AE%A3%E0%AE%95%E0%AE%95-%E0%AE%AE%E0%AE%B1%E0%AE%A8%E0%AE%A4-%E0%AE%AA%E0%AE%A9-wi-fi--%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%B5%E0%AE%B0%E0%AE%B8%E0%AE%AF%E0%AE%AE%E0%AE%A9-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%9F%E0%AE%9F%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%A4%E0%AE%B0%E0%AE%B0-%E0%AE%9A%E0%AE%9F%E0%AE%9F%E0%AE%A4%E0%AE%A4-%E0%AE%95%E0%AE%B1%E0%AE%B1%E0%AE%95%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AE%A4-landlord--%E0%AE%92%E0%AE%B0-%E0%AE%B0%E0%AE%9A%E0%AE%95%E0%AE%95%E0%AE%A4%E0%AE%A4%E0%AE%95%E0%AE%95-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%9A%E0%AE%B5%E0%AE%B0%E0%AE%B2%E0%AE%B2-%E0%AE%85%E0%AE%B1-%E0%AE%B5%E0%AE%A3%E0%AE%AE%E0%AE%A9-%E0%AE%95%E0%AE%9F%E0%AE%9F-%E0%AE%B5%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%A9--%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%AA%E0%AE%A3%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%A9-%E0%AE%85%E0%AE%9A%E0%AE%B0%E0%AE%9A%E0%AE%9A-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%A4%E0%AE%A9%E0%AE%A9%E0%AE%AE%E0%AE%AA%E0%AE%95%E0%AE%95-%E0%AE%95%E0%AE%A3%E0%AE%9F-%E0%AE%9F%E0%AE%B8%E0%AE%B2-%E0%AE%95%E0%AE%B0%E0%AE%AE-%E0%AE%85%E0%AE%9A%E0%AE%95%E0%AE%95-%E0%AE%AE%E0%AE%9F%E0%AE%AF%E0%AE%A4-%E0%AE%9A%E0%AE%95%E0%AE%95%E0%AE%B3-%E0%AE%A8%E0%AE%A3%E0%AE%AA%E0%AE%A9%E0%AE%AE--%E0%AE%9A%E0%AE%B2%E0%AE%AF%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%9A%E0%AE%B1%E0%AE%AF-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AE%AF%E0%AE%B2%E0%AE%B5%E0%AE%A4%E0%AE%95%E0%AE%B3-%E0%AE%95%E0%AE%9F%E0%AE%95%E0%AE%AE%E0%AE%B2-%E0%AE%87%E0%AE%A3%E0%AE%AF%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%AE%E0%AE%95%E0%AE%95%E0%AE%B3-%E0%AE%B5%E0%AE%B5%E0%AE%B0%E0%AE%99%E0%AE%95%E0%AE%B3-%E0%AE%B5%E0%AE%B3%E0%AE%AF%E0%AE%9F%E0%AE%9F-%E0%AE%95%E0%AE%A4--%E0%AE%AE%E0%AE%9F%E0%AE%9F%E0%AE%B3%E0%AE%A4%E0%AE%A9%E0%AE%A4%E0%AE%A4%E0%AE%95%E0%AE%95-%E0%AE%9A%E0%AE%B5%E0%AE%B0%E0%AE%B8%E0%AE%AF%E0%AE%AE%E0%AE%A9-%E0%AE%AE%E0%AE%9F%E0%AE%B5/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%87%E0%AE%B0%E0%AE%A3%E0%AE%9F-%E0%AE%B5%E0%AE%B0%E0%AE%99%E0%AE%95%E0%AE%B3%E0%AE%B2-%E0%AE%85%E0%AE%B2%E0%AE%B5%E0%AE%B2%E0%AE%95-%E0%AE%B0%E0%AE%95%E0%AE%B3--%E0%AE%AA%E0%AE%A4%E0%AE%AF-%E0%AE%B5%E0%AE%B2-%E0%AE%AA%E0%AE%B4%E0%AE%AF-%E0%AE%AE%E0%AE%B2%E0%AE%B3%E0%AE%B0%E0%AE%95%E0%AE%B3-%E0%AE%8E%E0%AE%A9-%E0%AE%95%E0%AE%A4%E0%AE%AF%E0%AE%AE-%E0%AE%95%E0%AE%B5%E0%AE%B2%E0%AE%95%E0%AE%B3%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%9F%E0%AE%9F%E0%AE%A9%E0%AE%95%E0%AE%B3-%E0%AE%8E%E0%AE%A9%E0%AE%B1%E0%AE%B2-%E0%AE%9A%E0%AE%AE%E0%AE%AE-%E0%AE%87%E0%AE%B2%E0%AE%B2%E0%AE%AA%E0%AE%AA--%E0%AE%92%E0%AE%B0-%E0%AE%9F%E0%AE%95-%E0%AE%9A%E0%AE%AA%E0%AE%AA%E0%AE%B0%E0%AE%9F-%E0%AE%9A%E0%AE%AE%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%87%E0%AE%A8%E0%AE%A4-%E0%AE%AA%E0%AE%9A%E0%AE%99%E0%AE%95-%E0%AE%9A%E0%AE%AE---%E0%AE%87%E0%AE%B0%E0%AE%B5-1230%E0%AE%95%E0%AE%95-%E0%AE%B0%E0%AE%9A%E0%AE%AA%E0%AE%B7%E0%AE%A9%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%92%E0%AE%B0-%E0%AE%85%E0%AE%B1%E0%AE%AA%E0%AE%A4%E0%AE%AE%E0%AE%A9-%E0%AE%9A%E0%AE%AE%E0%AE%AA%E0%AE%B5%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%9F-%E0%AE%B5%E0%AE%9F%E0%AE%95-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AE%A4-%E0%AE%B5%E0%AE%A4%E0%AE%A9-%E0%AE%AA%E0%AE%9F%E0%AE%9F%E0%AE%AE--%E0%AE%B5%E0%AE%9F%E0%AE%9F-%E0%AE%89%E0%AE%B0%E0%AE%AE%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%A8%E0%AE%AE%E0%AE%AE%E0%AE%B2-%E0%AE%95%E0%AE%B8%E0%AE%9F-%E0%AE%AA%E0%AE%A3%E0%AE%A3%E0%AE%A9%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9-%E0%AE%85%E0%AE%AE%E0%AE%AE%E0%AE%B5%E0%AE%A9-%E0%AE%A8%E0%AE%A3%E0%AE%AA-%E0%AE%95%E0%AE%B5%E0%AE%A9%E0%AE%B5%E0%AE%A9-%E0%AE%95%E0%AE%AE%E0%AE%9F-%E0%AE%95%E0%AE%A4%E0%AE%95%E0%AE%B3--%E0%AE%AA%E0%AE%A9%E0%AE%95%E0%AE%95%E0%AE%AE-%E0%AE%AA%E0%AE%9E%E0%AE%9A%E0%AE%AF%E0%AE%A4%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%8A%E0%AE%B0%E0%AE%95%E0%AE%B0%E0%AE%B0%E0%AE%95%E0%AE%95-%E0%AE%AE%E0%AE%9A%E0%AE%B2-%E0%AE%AA%E0%AE%9F%E0%AE%AE--%E0%AE%92%E0%AE%B0-%E0%AE%AA%E0%AE%9F-%E0%AE%AA%E0%AE%9F-%E0%AE%9A%E0%AE%B1%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%87%E0%AE%B0%E0%AE%A3%E0%AE%9F%E0%AE%A3%E0%AE%9F%E0%AE%95%E0%AE%B3-%E0%AE%95%E0%AE%B4%E0%AE%A4%E0%AE%A4-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%AE%E0%AE%A4%E0%AE%B2-%E0%AE%A4%E0%AE%B5%E0%AE%B1--%E0%AE%92%E0%AE%B0-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%A8%E0%AE%9F-%E0%AE%86%E0%AE%9F%E0%AE%9F%E0%AE%9F%E0%AE%B0%E0%AE%A9-%E0%AE%AE%E0%AE%A9%E0%AE%AE-%E0%AE%A4%E0%AE%B1%E0%AE%AA%E0%AE%AA/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9-%E0%AE%B5%E0%AE%9F%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%B0-%E0%AE%95%E0%AE%B0%E0%AE%A9%E0%AE%95%E0%AE%95-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AE%A4-%E0%AE%9A%E0%AE%B1%E0%AE%AF-%E0%AE%AA%E0%AE%B4--8000-%E0%AE%AE%E0%AE%B2-%E0%AE%A4%E0%AE%B0%E0%AE%A4%E0%AE%A4%E0%AE%B2%E0%AE%B0%E0%AE%A8%E0%AE%A4%E0%AE%B2%E0%AE%AE-%E0%AE%9A%E0%AE%A4%E0%AE%A4%E0%AE%AE-%E0%AE%95%E0%AE%9F%E0%AE%AF%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%8E%E0%AE%A9-%E0%AE%AE%E0%AE%A9%E0%AE%A4-%E0%AE%AA%E0%AE%9F%E0%AE%A4%E0%AE%A4%E0%AE%B5%E0%AE%9F--%E0%AE%92%E0%AE%B0-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0-%E0%AE%9A%E0%AE%B5-%E0%AE%8A%E0%AE%B4%E0%AE%AF%E0%AE%B0%E0%AE%A9-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%85%E0%AE%9F%E0%AE%99%E0%AE%95%E0%AE%A4-%E0%AE%85%E0%AE%A3%E0%AE%9F-%E0%AE%B5%E0%AE%9F%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%B0%E0%AE%B0-%E0%AE%8E%E0%AE%A9%E0%AE%A9-%E0%AE%AF%E0%AE%B0%E0%AE%AE-%E0%AE%AA%E0%AE%A4%E0%AE%A4%E0%AE%95%E0%AE%95-%E0%AE%AE%E0%AE%9F%E0%AE%9F%E0%AE%99%E0%AE%95%E0%AE%B3-%E0%AE%8E%E0%AE%A9-%E0%AE%A8%E0%AE%A9%E0%AE%A4%E0%AE%A4%E0%AE%B5%E0%AE%B0-%E0%AE%87%E0%AE%B1%E0%AE%A4%E0%AE%AF%E0%AE%B2-%E0%AE%A4%E0%AE%A9%E0%AE%A9%E0%AE%B2-%E0%AE%9A%E0%AE%95%E0%AE%95-%E0%AE%B5%E0%AE%9F%E0%AE%9F%E0%AE%B0/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%B0%E0%AE%9A%E0%AE%AF%E0%AE%B2-%E0%AE%AE%E0%AE%A9%E0%AE%A9%E0%AE%9F-%E0%AE%AA%E0%AE%9F%E0%AE%9F-%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%A9%E0%AE%A9%E0%AE%AA-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%B0%E0%AE%AE-%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%B0%E0%AE%AA%E0%AE%AA%E0%AE%AE-%E0%AE%9A%E0%AE%A8%E0%AE%A4%E0%AE%A9%E0%AE%AF%E0%AE%AE--%E0%AE%83%E0%AE%B0%E0%AE%A3%E0%AE%9F-%E0%AE%9F%E0%AE%B8%E0%AE%95-%E0%AE%95%E0%AE%A4%E0%AE%AF%E0%AE%B2%E0%AE%B2%E0%AE%A4-%E0%AE%95%E0%AE%B3%E0%AE%B5%E0%AE%95%E0%AE%B3-%E0%AE%AA%E0%AE%9A%E0%AE%9A%E0%AE%95%E0%AE%B3/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%B5%E0%AE%AE-%E0%AE%B5%E0%AE%AE-%E0%AE%95%E0%AE%B0%E0%AE%95%E0%AE%B3%E0%AE%A9-%E0%AE%9A%E0%AE%A4%E0%AE%A4%E0%AE%AE-%E0%AE%8E%E0%AE%A9-%E0%AE%85%E0%AE%A4%E0%AE%A4%E0%AE%AF%E0%AE%A9-%E0%AE%9E%E0%AE%AA%E0%AE%95%E0%AE%AE-%E0%AE%8E%E0%AE%A9%E0%AE%B1%E0%AE%AE-%E0%AE%95%E0%AE%9A%E0%AE%95%E0%AE%95%E0%AE%A4-%E0%AE%95%E0%AE%A4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%95%E0%AE%B2%E0%AE%B2%E0%AE%B1-%E0%AE%8E%E0%AE%B4%E0%AE%A4%E0%AE%AE-%E0%AE%95%E0%AE%A4-%E0%AE%85%E0%AE%A9%E0%AE%A9%E0%AE%95%E0%AE%95-%E0%AE%B5%E0%AE%A8%E0%AE%A4-%E0%AE%AA%E0%AE%A9%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%AA%E0%AE%B4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%AA%E0%AE%B0%E0%AE%B8-%E0%AE%B5%E0%AE%AE%E0%AE%A9-%E0%AE%A8%E0%AE%B2%E0%AE%AF%E0%AE%AE-%E0%AE%87%E0%AE%B0%E0%AE%B5%E0%AE%B0%E0%AE%AE-%E0%AE%87%E0%AE%9F%E0%AE%AE-%E0%AE%95%E0%AE%9F%E0%AE%95%E0%AE%95-%E0%AE%AE%E0%AE%B1%E0%AE%A8%E0%AE%A4%E0%AE%B2-%E0%AE%95%E0%AE%B4%E0%AE%A8%E0%AE%A4%E0%AE%95%E0%AE%B3-%E0%AE%A4%E0%AE%A9-%E0%AE%AA%E0%AE%9F%E0%AE%AE-%E0%AE%9A%E0%AE%B2%E0%AE%B2%E0%AE%B5%E0%AE%B0%E0%AE%95%E0%AE%B3/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%AE%E0%AE%A9%E0%AE%A9%E0%AE%A3-%E0%AE%AE%E0%AE%9A%E0%AE%AF%E0%AE%A9-%E0%AE%AA%E0%AE%A9%E0%AE%A9%E0%AE%B2-%E0%AE%B5%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B3%E0%AE%B0%E0%AE%95%E0%AE%B3--%E0%AE%87%E0%AE%A4-%E0%AE%A8%E0%AE%AE%E0%AE%AE-%E0%AE%8A%E0%AE%B0%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%93%E0%AE%B0-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%B2%E0%AE%B3%E0%AE%B0-%E0%AE%B5%E0%AE%B4%E0%AE%95%E0%AE%95%E0%AE%AF%E0%AE%B2-%E0%AE%92%E0%AE%B0-%E0%AE%A8%E0%AE%B3-%E0%AE%9A%E0%AE%B0%E0%AE%AA%E0%AE%AA%E0%AE%AE-%E0%AE%9A%E0%AE%B0%E0%AE%AE%E0%AE%AE%E0%AE%AE-%E0%AE%95%E0%AE%B2%E0%AE%A8%E0%AE%A4-%E0%AE%85%E0%AE%A9%E0%AE%AA%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%B3/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%A4%E0%AE%B2%E0%AE%95%E0%AE%95%E0%AE%B5%E0%AE%9A%E0%AE%AE-%E0%AE%85%E0%AE%A3%E0%AE%A8%E0%AE%A4%E0%AE%B5%E0%AE%B0%E0%AE%95%E0%AE%B3-%E0%AE%8E%E0%AE%A9%E0%AE%B1%E0%AE%B2-%E0%AE%89%E0%AE%99%E0%AE%95%E0%AE%B3%E0%AE%95%E0%AE%95-%E0%AE%8E%E0%AE%A9%E0%AE%A9-%E0%AE%AA%E0%AE%B0%E0%AE%9A%E0%AE%9A%E0%AE%A9--%E0%AE%92%E0%AE%B0-%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%AE%E0%AE%A9-%E0%AE%AE%E0%AE%9A-%E0%AE%95%E0%AE%A4%E0%AE%AF%E0%AE%9F%E0%AE%A9-%E0%AE%B5%E0%AE%B4%E0%AE%B5%E0%AE%A9-%E0%AE%85%E0%AE%B0%E0%AE%A4%E0%AE%A4%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%9A%E0%AE%A9-%E0%AE%87%E0%AE%B2%E0%AE%B2%E0%AE%A9%E0%AE%A9-%E0%AE%9A%E0%AE%B2%E0%AE%B1%E0%AE%A4%E0%AE%B2-%E0%AE%9A%E0%AE%B0--%E0%AE%B9%E0%AE%9F%E0%AE%9F%E0%AE%B2-%E0%AE%B0%E0%AE%9A%E0%AE%AA%E0%AE%B7%E0%AE%A9%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%9F%E0%AE%95%E0%AE%9F%E0%AE%B0-%E0%AE%9F%E0%AE%B0%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%9A%E0%AE%9F%E0%AE%9F%E0%AE%A9%E0%AE%B1-%E0%AE%AE%E0%AE%B1%E0%AE%AE-%E0%AE%87%E0%AE%A3%E0%AE%AF%E0%AE%AE-%E0%AE%92%E0%AE%B0-7-%E0%AE%AE%E0%AE%A3%E0%AE%95%E0%AE%95-%E0%AE%A4%E0%AE%9F%E0%AE%99%E0%AE%95%E0%AE%AE-%E0%AE%AE%E0%AE%B0%E0%AE%AE-%E0%AE%AA%E0%AE%AF%E0%AE%A3%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%95%E0%AE%B2-%E0%AE%A8%E0%AE%B0%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%95%E0%AE%AA%E0%AE%B3-%E0%AE%95%E0%AE%9F%E0%AE%A4%E0%AE%A4%E0%AE%B2--%E0%AE%A8%E0%AE%9F%E0%AE%B5%E0%AE%B0%E0%AE%95-%E0%AE%A4%E0%AE%B3%E0%AE%A4%E0%AE%A4%E0%AE%B2-%E0%AE%A8%E0%AE%9F%E0%AE%A8%E0%AE%A4-%E0%AE%B5%E0%AE%A3-%E0%AE%B5%E0%AE%9F%E0%AE%9F/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/%E0%AE%87%E0%AE%B0%E0%AE%9F%E0%AE%9F-%E0%AE%9A%E0%AE%B8%E0%AE%AA%E0%AE%B0%E0%AE%95%E0%AE%B0-%E0%AE%AA%E0%AE%B4%E0%AE%B5%E0%AE%99%E0%AE%95%E0%AE%B2-%E0%AE%B2%E0%AE%A3%E0%AE%9F-akka-%E0%AE%B5%E0%AE%95%E0%AE%95-%E0%AE%92%E0%AE%B0-%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%A4%E0%AE%B0%E0%AE%AA%E0%AE%AA%E0%AE%AE/</loc>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/archive/2025/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/category/%E0%AE%B0%E0%AE%9A%E0%AE%AA%E0%AE%B7%E0%AE%A9-%E0%AE%B0%E0%AE%9A%E0%AE%A9%E0%AE%95%E0%AE%B3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
-         <loc>https://tamil.perpetual.fyi/category/%E0%AE%95%E0%AE%B1%E0%AE%AE%E0%AE%AA%E0%AE%95-%E0%AE%95%E0%AE%9F%E0%AE%9F%E0%AE%AA%E0%AE%AA%E0%AE%9F/</loc>
-         <lastmod>2025-09-08</lastmod>
-    </url>
-    <url>
-         <loc>https://tamil.perpetual.fyi/category/%E0%AE%95%E0%AE%B5%E0%AE%A9-%E0%AE%95%E0%AE%B1%E0%AE%AE%E0%AE%AA%E0%AE%95%E0%AE%B3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <loc>https://tamil.perpetual.fyi/category/%E0%AE%9F%E0%AE%95-%E0%AE%9A%E0%AE%95%E0%AE%95%E0%AE%B2-%E0%AE%95%E0%AE%A4%E0%AE%95%E0%AE%B3/</loc>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/category/%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%9A%E0%AE%A3%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%B4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/category/%E0%AE%95%E0%AE%B5%E0%AE%A9-%E0%AE%95%E0%AE%B1%E0%AE%AE%E0%AE%AA%E0%AE%95%E0%AE%B3/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/category/%E0%AE%95%E0%AE%B1%E0%AE%AE%E0%AE%AA%E0%AE%95-%E0%AE%95%E0%AE%9F%E0%AE%9F%E0%AE%AA%E0%AE%AA%E0%AE%9F/</loc>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/category/%E0%AE%85%E0%AE%99%E0%AE%95%E0%AE%9F-%E0%AE%9A%E0%AE%95%E0%AE%9A%E0%AE%99%E0%AE%95%E0%AE%B3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/page/2/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/page/3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/page/4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/page/5/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/page/6/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/page/7/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/page/8/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/page/9/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/page/10/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/page/11/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/page/12/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/page/13/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/page/14/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/page/15/</loc>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/archive/2025/page/2/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/archive/2025/page/3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/archive/2025/page/4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/archive/2025/page/5/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/archive/2025/page/6/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/archive/2025/page/7/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/archive/2025/page/8/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/archive/2025/page/9/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/archive/2025/page/10/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/archive/2025/page/11/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/archive/2025/page/12/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/archive/2025/page/13/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/archive/2025/page/14/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/archive/2025/page/15/</loc>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/category/%E0%AE%95%E0%AE%B1%E0%AE%AE%E0%AE%AA%E0%AE%95-%E0%AE%95%E0%AE%9F%E0%AE%9F%E0%AE%AA%E0%AE%AA%E0%AE%9F/page/2/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/category/%E0%AE%95%E0%AE%B1%E0%AE%AE%E0%AE%AA%E0%AE%95-%E0%AE%95%E0%AE%9F%E0%AE%9F%E0%AE%AA%E0%AE%AA%E0%AE%9F/page/3/</loc>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/category/%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%9A%E0%AE%A3%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%B4/page/2/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/category/%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%9A%E0%AE%A3%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%B4/page/3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/category/%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%9A%E0%AE%A3%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%B4/page/4/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/category/%E0%AE%9A%E0%AE%A9%E0%AE%A9-%E0%AE%9A%E0%AE%A3%E0%AE%95%E0%AE%95-%E0%AE%AA%E0%AE%B4/page/5/</loc>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/category/%E0%AE%B0%E0%AE%9A%E0%AE%AA%E0%AE%B7%E0%AE%A9-%E0%AE%B0%E0%AE%9A%E0%AE%A9%E0%AE%95%E0%AE%B3/page/2/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/category/%E0%AE%B0%E0%AE%9A%E0%AE%AA%E0%AE%B7%E0%AE%A9-%E0%AE%B0%E0%AE%9A%E0%AE%A9%E0%AE%95%E0%AE%B3/page/3/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
     </url>
     <url>
          <loc>https://tamil.perpetual.fyi/category/%E0%AE%B0%E0%AE%9A%E0%AE%AA%E0%AE%B7%E0%AE%A9-%E0%AE%B0%E0%AE%9A%E0%AE%A9%E0%AE%95%E0%AE%B3/page/4/</loc>
-         <lastmod>2025-09-08</lastmod>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/category/%E0%AE%B0%E0%AE%9A%E0%AE%AA%E0%AE%B7%E0%AE%A9-%E0%AE%B0%E0%AE%9A%E0%AE%A9%E0%AE%95%E0%AE%B3/page/5/</loc>
+         <lastmod>2025-09-14</lastmod>
+    </url>
+    <url>
+         <loc>https://tamil.perpetual.fyi/category/%E0%AE%B0%E0%AE%9A%E0%AE%AA%E0%AE%B7%E0%AE%A9-%E0%AE%B0%E0%AE%9A%E0%AE%A9%E0%AE%95%E0%AE%B3/page/6/</loc>
+         <lastmod>2025-09-14</lastmod>
     </url>
 </urlset>
